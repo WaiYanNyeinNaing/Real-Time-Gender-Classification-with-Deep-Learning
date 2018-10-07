@@ -24,7 +24,7 @@ Real time gender classification - python detect_genders.py
 (The program will creat a window to display the scene capture by webcamera and a window representing the detected genders.)
 
 
-# Credits
+# Acknowledgement
 This work is inspired from this fascinating [oarriaga/B-IT-BOTS robotics team].
 
 
