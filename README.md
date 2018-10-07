@@ -8,8 +8,8 @@ Real Time Gender Classification with Deep Convolutional Neural Network
 
 https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 
-*Please download faces only (7GB) md5sum
-Dataset Path -= '../imdb/imdb_crop/'
+- *Please download faces only (7GB) md5sum
+-  Dataset Path -= '../imdb/imdb_crop/'
 
 # Library Installations:
  
