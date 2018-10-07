@@ -25,7 +25,7 @@ Real time gender classification - python detect_genders.py
 
 
 # Credits
-This work is inspired from this fascinating [oarriaga/face_classification] B-IT-BOTS robotics team.
+This work is inspired from this fascinating [oarriaga/B-IT-BOTS robotics team].
 
 
 If you like this work please help me by giving me some stars.
